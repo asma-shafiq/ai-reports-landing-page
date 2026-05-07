@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI & Automation Trends - Your Automated Intelligence</title>
+    <style>
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.6; margin: 0; padding: 0; background: #eef2f7; color: #333; display: flex; justify-content: center; align-items: center; min-height: 100vh; }
+        .container { background: #ffffff; padding: 40px; border-radius: 10px; box-shadow: 0 4px 20px rgba(0,0,0,0.1); text-align: center; max-width: 700px; width: 90%; }
+        h1 { color: #2c3e50; margin-bottom: 20px; }
+        p { font-size: 1.1em; color: #555; margin-bottom: 15px; }
+        ul { list-style: none; padding: 0; margin: 20px 0; }
+        li { background: #f8f9fa; margin: 10px 0; padding: 10px; border-radius: 5px; border-left: 5px solid #007bff; }
+        .button { display: inline-block; background: #007bff; color: #fff; padding: 15px 30px; text-decoration: none; border-radius: 8px; font-size: 1.2em; font-weight: bold; margin-top: 25px; transition: background 0.3s ease; }
+        .button:hover { background: #0056b3; transform: translateY(-2px); }
+        .footer { margin-top: 40px; font-size: 0.85em; color: #888; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Unlock Tomorrow's AI & Automation Trends Today!</h1>
+        <p>Your personal AI intelligence system is now live, delivering cutting-edge insights directly to your inbox. Designed for small businesses and ambitious solopreneurs.</p>
+        <p>Get a competitive edge with our automated, weekly intelligence reports:</p>
+        <ul>
+            <li>**Free Lead Magnet:** "Top 5 AI Automation Tools for Solopreneurs in 2024" (download available after email signup)</li>
+        </ul>
+        <p>Choose your subscription level for in-depth analysis:</p>
+        <ul>
+            <li>**Basic:** $49/month - Essential trends & summaries</li>
+            <li>**Advanced:** $99/month - Deeper dives, case studies & tool spotlights</li>
+            <li>**Premium:** $199/month - All Advanced features + customizable alerts & strategic recommendations</li>
+        </ul>
+        <a href="https://app.lemonsqueezy.com/checkout/buy/YOUR_LEMON_SQUEEZY_PRODUCT_ID" class="button">Get Your First Report Now!</a>
+        <p class="footer">Powered by RuFlo AI - Your Silent Automation Partner.</p>
+    </div>
+</body>
+</html>
