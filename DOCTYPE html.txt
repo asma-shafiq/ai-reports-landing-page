@@ -30,7 +30,7 @@
             <li>**Advanced:** $99/month - Deeper dives, case studies & tool spotlights</li>
             <li>**Premium:** $199/month - All Advanced features + customizable alerts & strategic recommendations</li>
         </ul>
-        <a href="https://app.lemonsqueezy.com/checkout/buy/YOUR_LEMON_SQUEEZY_PRODUCT_ID" class="button">Get Your First Report Now!</a>
+        <a href="https://app.lemonsqueezy.com/checkout/buy/1036813" class="button">Get Your First Report Now!</a>
         <p class="footer">Powered by RuFlo AI - Your Silent Automation Partner.</p>
     </div>
 </body>
